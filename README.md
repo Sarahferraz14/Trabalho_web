@@ -24,3 +24,12 @@ _Avaliação:_
         O design do formulário deve ser limpo e profissional, seguindo as práticas modernas de web design. Isso inclui uma interface amigável e visualmente agradável que proporciona uma boa experiência ao usuário.
 - Integração com a Ferramenta de Envio:
         A integração do formulário com a ferramenta de envio escolhida deve ser eficaz, garantindo que os dados coletados sejam gerenciados de forma eficiente e correta.
+
+
+https://www.youtube.com/watch?v=TLkds5BJ-vA
+
+https://www.homehost.com.br/blog/tutoriais/formulario-html/#:~:text=abaixo%20esses%20exemplos%3A-,Como%20inserir%20um%20formul%C3%A1rio%20HTML,melhor%20como%20incluir%20esses%20elementos.
+
+https://docs.google.com/forms/d/1dB3kCUJfiryRP9SShY436nsSnHs-VCBmTS4Y6co8FoA/edit?pli=1
+
+https://dash.elfsight.com/widget/5c1a3db3-79e9-47f6-ae42-87092336f754
