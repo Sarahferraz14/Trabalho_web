@@ -26,14 +26,7 @@ _Avaliação:_
         A integração do formulário com a ferramenta de envio escolhida deve ser eficaz, garantindo que os dados coletados sejam gerenciados de forma eficiente e correta.
 
 
-https://www.youtube.com/watch?v=TLkds5BJ-vA
-
-https://www.homehost.com.br/blog/tutoriais/formulario-html/#:~:text=abaixo%20esses%20exemplos%3A-,Como%20inserir%20um%20formul%C3%A1rio%20HTML,melhor%20como%20incluir%20esses%20elementos.
-
-https://docs.google.com/forms/d/1dB3kCUJfiryRP9SShY436nsSnHs-VCBmTS4Y6co8FoA/edit?pli=1
-
 
 https://github.com/WilliamDosSantos/Enviar-Email-HTML__FormSubmit.git
-https://dash.elfsight.com/widget/5c1a3db3-79e9-47f6-ae42-87092336f754
 
 https://github.com/felipemotarocha/formulario-js-dicasparadevs
