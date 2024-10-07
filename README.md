@@ -13,7 +13,7 @@ _Fases:_
         Revise o código, faça os ajustes necessários e assegure que o formulário esteja funcional e esteticamente agradável.
   
 _Entrega:_
-- Dia 08/10 (quarta feira)
+- Dia 08/10 (terça-feira)
 
 _Avaliação:_
 - Qualidade do Código:
@@ -35,3 +35,5 @@ https://docs.google.com/forms/d/1dB3kCUJfiryRP9SShY436nsSnHs-VCBmTS4Y6co8FoA/edi
 
 https://github.com/WilliamDosSantos/Enviar-Email-HTML__FormSubmit.git
 https://dash.elfsight.com/widget/5c1a3db3-79e9-47f6-ae42-87092336f754
+
+https://github.com/felipemotarocha/formulario-js-dicasparadevs
